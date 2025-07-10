@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+// your local README content
+=======
 # Tesseract-AI
-Tesseract AI Chatbot
+// GitHub repo’s default README content
+>>>>>>> 3bcd571 (commit message)
